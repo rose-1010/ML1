@@ -1,0 +1,11 @@
+Age,Gender,BMI,Blood_Pressure,Cholestral,Condition
+35,Female,24.4,120,201,1
+42,Male,26.3,122,205,1
+47,Female,28.2,128,206,1
+52,Male,30.2,132,211,1
+56,Female,30.8,136,214,0
+58,Male,31.1,137,222,0
+62,Female,31.6,139,232,1
+64,Male,33.3,141,234,1
+68,Female,34.5,145,238,1
+71,Male,34.8,146,240,1
